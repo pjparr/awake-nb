@@ -1,0 +1,11 @@
+{
+    "name": "vendor/awake-nb",
+    "description": "Description of project awake-nb.",
+    "authors": [
+        {
+            "name": "Peter",
+            "email": "pjparr@gmail.com"
+        }
+    ],
+    "require": {}
+}
